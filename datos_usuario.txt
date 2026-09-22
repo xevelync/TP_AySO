@@ -1,1 +1,2 @@
 Usuario=eveutn
+model name	: AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx
