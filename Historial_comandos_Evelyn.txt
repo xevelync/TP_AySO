@@ -1,0 +1,68 @@
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git@github.com:xevelync/TP_AySO.git
+git clone [200~git@github.com:xevelync/TP_AySO.git
+~git clone git@github.com:xevelync/TP_AySO.git
+git clone git@github.com:xevelync/TP_AySO.git
+sudo apt update && sudo apy install git -y
+git clone git@github.com:xevelync/TP_AySO.git
+sudo apt install git -y
+git clone git@github.com:xevelync/TP_AySO.git
+cd TP_AySO
+ssh -T git@github.com
+eval "(ssh/agent -s)"
+eval "(ssh-agent -s)"
+git clone git@github.com:xevelync/TP_AySO.git
+sudo apt update && sudo apt install -y virtualbox-guest-x11
+sudo reboot
+VBoxClient --clipboard
+ssh-keygen
+cat ~/.ssh/id_ed25519.pub
+cd
+mkdir repogit
+rm -rf ~/repogit
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:xevelync/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "TU-email"
+git config --global user.name "Tu-
+Usuario"
+git config --global user.email "evelyncubilla77@gmail.com"
+git config --global user.name "xevelync"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt && git commit -m "feat: Añadiendo información de CPU" && git push
+cat <<EOF >> README.md
+Alumno: Evelyn
+División: 311
+Turno: Noche
+EOF
+
+git add README.md datos_usuarios.txt
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
+cp ~/.bash_history Historial_comandos_Evelyn.txt
+history -a
